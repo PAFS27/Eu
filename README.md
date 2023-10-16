@@ -10,6 +10,6 @@ Meu nome é Marcelo Paludetto
 
 
 
-@marcelopaludetto
+
 
 ![descrição do GIF](link GIF do Tenor) 
